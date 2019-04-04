@@ -12,7 +12,7 @@ public class EmojiCategory {
     // MARK: - Public variables
     
     var category: Category!
-    var emojis: [Emoji]!
+    public var emojis: [Emoji]!
     
     // MARK: - Initial functions
     
@@ -21,4 +21,9 @@ public class EmojiCategory {
         self.emojis = emojis
     }
     
+    // MARK: - Public
+    
+    public func emojis(with keyword: String) -> [Emoji] {
+        return emojis.filter { $0.keywords.range(of: keyword, options: [.caseInsensitive]) != nil }
+    }
 }

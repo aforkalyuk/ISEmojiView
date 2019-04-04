@@ -44,18 +44,20 @@ final public class EmojiLoader {
                 continue
             }
             
-            guard let rawEmojis = dictionary["emojis"] as? [Any] else {
+            guard let rawEmojis = dictionary["emojis"] as? [[String: Any]] else {
                 continue
             }
             
             var emojis = [Emoji]()
             
             for value in rawEmojis {
-                if let string = value as? String {
-                    emojis.append(Emoji(emojis: [string]))
-                } else if let array = value as? [String] {
-                    emojis.append(Emoji(emojis: array))
-                }
+                guard
+                    let emojisArray = value["emoji"] as? [String],
+                    let keywords = value["keywords"] as? String,
+                    let seq = value["sequence"] as? String,
+                    let tts = value["tts"] as? String
+                    else { continue }
+                emojis.append(Emoji(emojis: emojisArray, keywords: keywords, sequence: seq, tts: tts))
             }
             
             let emojiCategory = EmojiCategory(category: category, emojis: emojis)

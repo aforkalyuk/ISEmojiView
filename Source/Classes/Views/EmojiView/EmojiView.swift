@@ -17,7 +17,7 @@ public protocol EmojiViewDelegate: class {
     func emojiViewDidPressChangeKeyboardButton(_ emojiView: EmojiView)
     func emojiViewDidPressDeleteBackwardButton(_ emojiView: EmojiView)
     func emojiViewDidPressDismissKeyboardButton(_ emojiView: EmojiView)
-    
+    func emojiViewSearchString(_ emojiView: EmojiView) -> String?
 }
 
 public extension EmojiViewDelegate {
@@ -25,7 +25,7 @@ public extension EmojiViewDelegate {
     func emojiViewDidPressChangeKeyboardButton(_ emojiView: EmojiView) {}
     func emojiViewDidPressDeleteBackwardButton(_ emojiView: EmojiView) {}
     func emojiViewDidPressDismissKeyboardButton(_ emojiView: EmojiView) {}
-    
+    func emojiViewSearchString(_ emojiView: EmojiView) -> String? { return nil }
 }
 
 final public class EmojiView: UIView {
@@ -85,9 +85,10 @@ final public class EmojiView: UIView {
     private var bottomConstraint: NSLayoutConstraint?
     
     private var bottomType: BottomType!
-    private var emojis: [EmojiCategory]!
     private var keyboardSettings: KeyboardSettings?
-    
+
+    public private(set) var emojis: [EmojiCategory]!
+
     // MARK: - Init functions
     
     public override init(frame: CGRect) {
@@ -155,18 +156,31 @@ final public class EmojiView: UIView {
         return point.y >= -TopPartSize.height
     }
     
+    // MARK: - Public
+    
+    public func reload() {
+        emojiCollectionView?.reload()
+    }
+    
+    public func selectEmoji(_ emoji: Emoji, selectedEmoji: String) {
+        if RecentEmojisManager.sharedInstance.add(emoji: emoji, selectedEmoji: selectedEmoji) {
+            emojiCollectionView?.updateRecentsEmojis(RecentEmojisManager.sharedInstance.recentEmojis())
+        }
+        
+        delegate?.emojiViewDidSelectEmoji(selectedEmoji, emojiView: self)
+    }
 }
 
 // MARK: - EmojiCollectionViewDelegate
 
 extension EmojiView: EmojiCollectionViewDelegate {
     
+    func emojiViewSearchString() -> String? {
+        return delegate?.emojiViewSearchString(self)
+    }
+    
     func emojiViewDidSelectEmoji(emojiView: EmojiCollectionView, emoji: Emoji, selectedEmoji: String) {
-        if RecentEmojisManager.sharedInstance.add(emoji: emoji, selectedEmoji: selectedEmoji) {
-            emojiCollectionView?.updateRecentsEmojis(RecentEmojisManager.sharedInstance.recentEmojis())
-        }
-        
-        delegate?.emojiViewDidSelectEmoji(selectedEmoji, emojiView: self)
+        selectEmoji(emoji, selectedEmoji: selectedEmoji)
     }
     
     func emojiViewDidChangeCategory(_ category: Category, emojiView: EmojiCollectionView) {

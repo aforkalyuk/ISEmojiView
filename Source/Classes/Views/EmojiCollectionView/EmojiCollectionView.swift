@@ -25,6 +25,7 @@ internal protocol EmojiCollectionViewDelegate: class {
     ///   - emojiView: the emoji view
     func emojiViewDidChangeCategory(_ category: Category, emojiView: EmojiCollectionView)
     
+    func emojiViewSearchString() -> String?
 }
 
 /// A emoji keyboard view
@@ -42,6 +43,10 @@ internal class EmojiCollectionView: UIView {
         didSet {
             collectionView.reloadData()
         }
+    }
+    
+    internal var searchString: String? {
+        return delegate?.emojiViewSearchString()
     }
     
     // MARK: - Private variables
@@ -125,22 +130,35 @@ internal class EmojiCollectionView: UIView {
         collectionView.scrollToItem(at: indexPath, at: .left, animated: true)
     }
     
+    // MARK: - Public
+    
+    public func reload() {
+        collectionView.reloadData()
+    }
 }
 
 // MARK: - UICollectionViewDataSource
 
 extension EmojiCollectionView: UICollectionViewDataSource {
     
+    internal var filteredEmojis: [EmojiCategory] {
+        guard let searchString = searchString, searchString.isEmpty == false else { return emojis }
+        return emojis.compactMap { category in
+            let emojis = category.emojis(with: searchString)
+            return emojis.isEmpty ? nil : EmojiCategory(category: category.category, emojis: emojis)
+        }
+    }
+    
     internal func numberOfSections(in collectionView: UICollectionView) -> Int {
-        return emojis.count
+        return filteredEmojis.count
     }
     
     internal func collectionView(_ collectionView: UICollectionView, numberOfItemsInSection section: Int) -> Int {
-        return emojis[section].emojis.count
+        return filteredEmojis[section].emojis.count
     }
     
     internal func collectionView(_ collectionView: UICollectionView, cellForItemAt indexPath: IndexPath) -> UICollectionViewCell {
-        let emojiCategory = emojis[indexPath.section]
+        let emojiCategory = filteredEmojis[indexPath.section]
         let emoji = emojiCategory.emojis[indexPath.item]
         
         let cell = collectionView.dequeueReusableCell(withReuseIdentifier: "EmojiCollectionCell", for: indexPath) as! EmojiCollectionCell
@@ -167,7 +185,7 @@ extension EmojiCollectionView: UICollectionViewDelegate {
             return
         }
         
-        let emojiCategory = emojis[indexPath.section]
+        let emojiCategory = filteredEmojis[indexPath.section]
         let emoji = emojiCategory.emojis[indexPath.item]
         
         delegate?.emojiViewDidSelectEmoji(emojiView: self, emoji: emoji, selectedEmoji: emoji.emoji)
@@ -179,7 +197,7 @@ extension EmojiCollectionView: UICollectionViewDelegate {
         }
         
         if let indexPath = collectionView.indexPathsForVisibleItems.min() {
-            let emojiCategory = emojis[indexPath.section]
+            let emojiCategory = filteredEmojis[indexPath.section]
             delegate?.emojiViewDidChangeCategory(emojiCategory.category, emojiView: self)
         }
     }
@@ -193,7 +211,7 @@ extension EmojiCollectionView: UICollectionViewDelegateFlowLayout {
     func collectionView(_ collectionView: UICollectionView, layout collectionViewLayout: UICollectionViewLayout, insetForSectionAt section: Int) -> UIEdgeInsets {
         var inset = UIEdgeInsets.zero
         
-        if let recentsEmojis = emojis.first(where: { $0.category == Category.recents }) {
+        if let recentsEmojis = filteredEmojis.first(where: { $0.category == Category.recents }) {
             if (!recentsEmojis.emojis.isEmpty && section != 0) || (recentsEmojis.emojis.isEmpty && section > 1) {
                 inset.left = 15
             }
@@ -203,7 +221,7 @@ extension EmojiCollectionView: UICollectionViewDelegateFlowLayout {
             inset.left = 3
         }
         
-        if section == emojis.count - 1 {
+        if section == filteredEmojis.count - 1 {
             inset.right = 4
         }
         
@@ -282,7 +300,7 @@ extension EmojiCollectionView {
             return
         }
     
-        let emojiCategory = emojis[indexPath.section]
+        let emojiCategory = filteredEmojis[indexPath.section]
         let emoji = emojiCategory.emojis[indexPath.item]
         
         if sender.state == .ended && emoji.emojis.count == 1 {
