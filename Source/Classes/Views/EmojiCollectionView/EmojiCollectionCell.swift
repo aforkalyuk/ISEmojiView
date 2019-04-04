@@ -7,7 +7,7 @@
 
 import Foundation
 
-internal class EmojiCollectionCell: UICollectionViewCell {
+public class EmojiCollectionCell: UICollectionViewCell {
     
     // MARK: - Private variables
     
@@ -26,14 +26,14 @@ internal class EmojiCollectionCell: UICollectionViewCell {
         setupView()
     }
     
-    required init?(coder aDecoder: NSCoder) {
+    required public init?(coder aDecoder: NSCoder) {
         super.init(coder: aDecoder)
         setupView()
     }
     
     // MARK: - Internal functions
     
-    internal func setEmoji(_ emoji: String) {
+    public func setEmoji(_ emoji: String) {
         emojiLabel.text = emoji
     }
     
