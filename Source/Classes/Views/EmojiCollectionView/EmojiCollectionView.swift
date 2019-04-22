@@ -112,6 +112,10 @@ internal class EmojiCollectionView: UIView {
     
     // MARK: - Internal functions
     
+    internal func setCollectionViewBackgroundColor(_ color: UIColor) {
+        collectionView?.backgroundColor = color
+    }
+    
     internal func updateRecentsEmojis(_ emojis: [Emoji]) {
         self.emojis[0].emojis = emojis
         collectionView.reloadSections(IndexSet(integer: 0))

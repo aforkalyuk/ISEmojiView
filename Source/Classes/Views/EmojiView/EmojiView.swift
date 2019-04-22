@@ -137,6 +137,13 @@ final public class EmojiView: UIView {
     
     // MARK: - Override functions
     
+    // there is a strange bug with collectionview background color inside keyboard extention. So, temp solution is
+    // to setup it outside this view (Currently i'm doing it on viewWillAppear)
+    public func setCollectionViewBackgroundColor(_ color: UIColor) {
+        emojiCollectionView?.setCollectionViewBackgroundColor(color)
+        categoriesBottomView?.setCollectionViewBackgroundColor(color)
+    }
+
     public override func layoutSubviews() {
         super.layoutSubviews()
         

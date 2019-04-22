@@ -108,6 +108,12 @@ final internal class CategoriesBottomView: UIView {
     
     // MARK: - Internal functions
     
+    // there is a strange bug with collectionview background color inside keyboard extention. So, temp solution is
+    // to setup it outside this view (Currently i'm doing it on viewWillAppear)
+    internal func setCollectionViewBackgroundColor(_ color: UIColor) {
+        collectionView?.backgroundColor = color
+    }
+    
     internal func updateCurrentCategory(_ category: Category) {
         guard let item = categories.index(where: { $0 == category }) else {
             return
