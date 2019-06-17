@@ -58,6 +58,7 @@
 		0D3A9ABA2115E36200279297 /* ic_activity@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 0D3A9A882115E36100279297 /* ic_activity@3x.png */; };
 		0D3A9ABB2115E36200279297 /* ISEmojiList.plist in Resources */ = {isa = PBXBuildFile; fileRef = 0D3A9A892115E36100279297 /* ISEmojiList.plist */; };
 		0D3A9ABC2115E36200279297 /* ISEmojiList_iOS10.plist in Resources */ = {isa = PBXBuildFile; fileRef = 0D3A9A8A2115E36100279297 /* ISEmojiList_iOS10.plist */; };
+		8635010022B7CA5600DD1467 /* ISEmojiList_iOS11.plist in Resources */ = {isa = PBXBuildFile; fileRef = 863500FF22B7CA5500DD1467 /* ISEmojiList_iOS11.plist */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -114,6 +115,7 @@
 		0D3A9A882115E36100279297 /* ic_activity@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "ic_activity@3x.png"; sourceTree = "<group>"; };
 		0D3A9A892115E36100279297 /* ISEmojiList.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = ISEmojiList.plist; sourceTree = "<group>"; };
 		0D3A9A8A2115E36100279297 /* ISEmojiList_iOS10.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = ISEmojiList_iOS10.plist; sourceTree = "<group>"; };
+		863500FF22B7CA5500DD1467 /* ISEmojiList_iOS11.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = ISEmojiList_iOS11.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -270,6 +272,7 @@
 				0D3A9A662115E36100279297 /* Xibs */,
 				0D3A9A6A2115E36100279297 /* Images */,
 				0D3A9A892115E36100279297 /* ISEmojiList.plist */,
+				863500FF22B7CA5500DD1467 /* ISEmojiList_iOS11.plist */,
 				0D3A9A8A2115E36100279297 /* ISEmojiList_iOS10.plist */,
 			);
 			path = Assets;
@@ -373,6 +376,7 @@
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
+				English,
 				en,
 			);
 			mainGroup = 0B834BAD1DD5CE12003F5D79;
@@ -415,6 +419,7 @@
 				0D3A9AAC2115E36200279297 /* ic_smileys_people@3x.png in Resources */,
 				0D3A9A9E2115E36200279297 /* ic_flags.png in Resources */,
 				0D3A9ABA2115E36200279297 /* ic_activity@3x.png in Resources */,
+				8635010022B7CA5600DD1467 /* ISEmojiList_iOS11.plist in Resources */,
 				0D3A9A9C2115E36100279297 /* CategoriesBottomView.xib in Resources */,
 				0D3A9A9B2115E36100279297 /* EmojiCollectionView.xib in Resources */,
 				0D3A9AB62115E36200279297 /* ic_travel_places@3x.png in Resources */,

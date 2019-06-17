@@ -176,18 +176,6 @@
 			<dict>
 				<key>emoji</key>
 				<array>
-					<string>🥰</string>
-				</array>
-				<key>keywords</key>
-				<string></string>
-				<key>sequence</key>
-				<string></string>
-				<key>tts</key>
-				<string></string>
-			</dict>
-			<dict>
-				<key>emoji</key>
-				<array>
 					<string>😗</string>
 				</array>
 				<key>keywords</key>
@@ -788,30 +776,6 @@
 			<dict>
 				<key>emoji</key>
 				<array>
-					<string>🥵</string>
-				</array>
-				<key>keywords</key>
-				<string></string>
-				<key>sequence</key>
-				<string></string>
-				<key>tts</key>
-				<string></string>
-			</dict>
-			<dict>
-				<key>emoji</key>
-				<array>
-					<string>🥶</string>
-				</array>
-				<key>keywords</key>
-				<string></string>
-				<key>sequence</key>
-				<string></string>
-				<key>tts</key>
-				<string></string>
-			</dict>
-			<dict>
-				<key>emoji</key>
-				<array>
 					<string>😳</string>
 				</array>
 				<key>keywords</key>
@@ -988,42 +952,6 @@
 				<string>1F921</string>
 				<key>tts</key>
 				<string>clown face</string>
-			</dict>
-			<dict>
-				<key>emoji</key>
-				<array>
-					<string>🥳</string>
-				</array>
-				<key>keywords</key>
-				<string></string>
-				<key>sequence</key>
-				<string></string>
-				<key>tts</key>
-				<string></string>
-			</dict>
-			<dict>
-				<key>emoji</key>
-				<array>
-					<string>🥴</string>
-				</array>
-				<key>keywords</key>
-				<string></string>
-				<key>sequence</key>
-				<string></string>
-				<key>tts</key>
-				<string></string>
-			</dict>
-			<dict>
-				<key>emoji</key>
-				<array>
-					<string>🥺</string>
-				</array>
-				<key>keywords</key>
-				<string></string>
-				<key>sequence</key>
-				<string></string>
-				<key>tts</key>
-				<string></string>
 			</dict>
 			<dict>
 				<key>emoji</key>
@@ -1763,40 +1691,6 @@
 			<dict>
 				<key>emoji</key>
 				<array>
-					<string>🦵</string>
-					<string>🦵🏻</string>
-					<string>🦵🏼</string>
-					<string>🦵🏽</string>
-					<string>🦵🏾</string>
-					<string>🦵🏿</string>
-				</array>
-				<key>keywords</key>
-				<string></string>
-				<key>sequence</key>
-				<string></string>
-				<key>tts</key>
-				<string></string>
-			</dict>
-			<dict>
-				<key>emoji</key>
-				<array>
-					<string>🦶</string>
-					<string>🦶🏻</string>
-					<string>🦶🏼</string>
-					<string>🦶🏽</string>
-					<string>🦶🏾</string>
-					<string>🦶🏿</string>
-				</array>
-				<key>keywords</key>
-				<string></string>
-				<key>sequence</key>
-				<string></string>
-				<key>tts</key>
-				<string></string>
-			</dict>
-			<dict>
-				<key>emoji</key>
-				<array>
 					<string>🖕</string>
 					<string>🖕🏻</string>
 					<string>🖕🏼</string>
@@ -1979,30 +1873,6 @@
 				<key>emoji</key>
 				<array>
 					<string>🧠</string>
-				</array>
-				<key>keywords</key>
-				<string></string>
-				<key>sequence</key>
-				<string></string>
-				<key>tts</key>
-				<string></string>
-			</dict>
-			<dict>
-				<key>emoji</key>
-				<array>
-					<string>🦴</string>
-				</array>
-				<key>keywords</key>
-				<string></string>
-				<key>sequence</key>
-				<string></string>
-				<key>tts</key>
-				<string></string>
-			</dict>
-			<dict>
-				<key>emoji</key>
-				<array>
-					<string>🦷</string>
 				</array>
 				<key>keywords</key>
 				<string></string>
@@ -2199,210 +2069,6 @@
 				<string>1F471 200D 2640</string>
 				<key>tts</key>
 				<string>blond-haired woman</string>
-			</dict>
-			<dict>
-				<key>emoji</key>
-				<array>
-					<string>👨‍🦰 </string>
-					<string>👨🏻‍🦰</string>
-					<string>👨🏼‍🦰</string>
-					<string>👨🏽‍🦰</string>
-					<string>👨🏾‍🦰</string>
-					<string>👨🏿‍🦰</string>
-				</array>
-				<key>keywords</key>
-				<string>man;healthcare;doctor;nurse;therapist</string>
-				<key>sequence</key>
-				<string>1F468 200D 2695</string>
-				<key>tts</key>
-				<string>man health worker</string>
-			</dict>
-			<dict>
-				<key>emoji</key>
-				<array>
-					<string>👩‍🦰</string>
-					<string>👩🏻‍🦰</string>
-					<string>👩🏼‍🦰</string>
-					<string>👩🏽‍🦰</string>
-					<string>👩🏾‍🦰</string>
-					<string>👩🏿‍🦰</string>
-				</array>
-				<key>keywords</key>
-				<string>woman;healthcare;doctor;nurse;therapist</string>
-				<key>sequence</key>
-				<string>1F469 200D 2695</string>
-				<key>tts</key>
-				<string>woman health worker</string>
-			</dict>
-			<dict>
-				<key>emoji</key>
-				<array>
-					<string>👨‍🦱</string>
-					<string>👨🏻‍🦱</string>
-					<string>👨🏼‍🦱</string>
-					<string>👨🏽‍🦱</string>
-					<string>👨🏾‍🦱</string>
-					<string>👨🏿‍🦱</string>
-				</array>
-				<key>keywords</key>
-				<string>man;student;graduate</string>
-				<key>sequence</key>
-				<string>1F468 200D 1F393</string>
-				<key>tts</key>
-				<string>man student</string>
-			</dict>
-			<dict>
-				<key>emoji</key>
-				<array>
-					<string>👩‍🦱</string>
-					<string>👩🏻‍🦱</string>
-					<string>👩🏼‍🦱</string>
-					<string>👩🏽‍🦱</string>
-					<string>👩🏾‍🦱</string>
-					<string>👩🏿‍🦱</string>
-				</array>
-				<key>keywords</key>
-				<string>woman;student;graduate</string>
-				<key>sequence</key>
-				<string>1F469 200D 1F393</string>
-				<key>tts</key>
-				<string>woman student</string>
-			</dict>
-			<dict>
-				<key>emoji</key>
-				<array>
-					<string>👨‍🦲</string>
-					<string>👨🏻‍🦲</string>
-					<string>👨🏼‍🦲</string>
-					<string>👨🏽‍🦲</string>
-					<string>👨🏾‍🦲</string>
-					<string>👨🏿‍🦲</string>
-				</array>
-				<key>keywords</key>
-				<string>man;farmer;rancher;gardener</string>
-				<key>sequence</key>
-				<string>1F468 200D 1F33E</string>
-				<key>tts</key>
-				<string>man farmer</string>
-			</dict>
-			<dict>
-				<key>emoji</key>
-				<array>
-					<string>👩‍🦲</string>
-					<string>👩🏻‍🦲</string>
-					<string>👩🏼‍🦲</string>
-					<string>👩🏽‍🦲</string>
-					<string>👩🏾‍🦲</string>
-					<string>👩🏿‍🦲</string>
-				</array>
-				<key>keywords</key>
-				<string>woman;farmer;rancher;gardener</string>
-				<key>sequence</key>
-				<string>1F469 200D 1F33E</string>
-				<key>tts</key>
-				<string>woman farmer</string>
-			</dict>
-			<dict>
-				<key>emoji</key>
-				<array>
-					<string>👨‍🦳</string>
-					<string>👨🏻‍🦳</string>
-					<string>👨🏼‍🦳</string>
-					<string>👨🏽‍🦳</string>
-					<string>👨🏾‍🦳</string>
-					<string>👨🏿‍🦳</string>
-				</array>
-				<key>keywords</key>
-				<string>man;cook;chef</string>
-				<key>sequence</key>
-				<string>1F468 200D 1F373</string>
-				<key>tts</key>
-				<string>man cook</string>
-			</dict>
-			<dict>
-				<key>emoji</key>
-				<array>
-					<string>👩‍🦳</string>
-					<string>👩🏻‍🦳</string>
-					<string>👩🏼‍🦳</string>
-					<string>👩🏽‍🦳</string>
-					<string>👩🏾‍🦳</string>
-					<string>👩🏿‍🦳</string>
-				</array>
-				<key>keywords</key>
-				<string>woman;cook;chef</string>
-				<key>sequence</key>
-				<string>1F469 200D 1F373</string>
-				<key>tts</key>
-				<string>woman cook</string>
-			</dict>
-			<dict>
-				<key>emoji</key>
-				<array>
-					<string>🦸</string>
-					<string>🦸🏻</string>
-					<string>🦸🏼</string>
-					<string>🦸🏽</string>
-					<string>🦸🏾</string>
-					<string>🦸🏿</string>
-				</array>
-				<key>keywords</key>
-				<string></string>
-				<key>sequence</key>
-				<string></string>
-				<key>tts</key>
-				<string></string>
-			</dict>
-			<dict>
-				<key>emoji</key>
-				<array>
-					<string>🦸‍♂️</string>
-					<string>🦸🏻‍♂️</string>
-					<string>🦸🏼‍♂️</string>
-					<string>🦸🏽‍♂️</string>
-					<string>🦸🏾‍♂️</string>
-					<string>🦸🏿‍♂️</string>
-				</array>
-				<key>keywords</key>
-				<string></string>
-				<key>sequence</key>
-				<string></string>
-				<key>tts</key>
-				<string></string>
-			</dict>
-			<dict>
-				<key>emoji</key>
-				<array>
-					<string>🦹‍♀️</string>
-					<string>🦹🏻‍♀️</string>
-					<string>🦹🏼‍♀️</string>
-					<string>🦹🏽‍♀️</string>
-					<string>🦹🏾‍♀️</string>
-					<string>🦹🏿‍♀️</string>
-				</array>
-				<key>keywords</key>
-				<string></string>
-				<key>sequence</key>
-				<string></string>
-				<key>tts</key>
-				<string></string>
-			</dict>
-			<dict>
-				<key>emoji</key>
-				<array>
-					<string>🦹‍♂️</string>
-					<string>🦹🏻‍♂️</string>
-					<string>🦹🏼‍♂️</string>
-					<string>🦹🏽‍♂️</string>
-					<string>🦹🏾‍♂️</string>
-					<string>🦹🏿‍♂️</string>
-				</array>
-				<key>keywords</key>
-				<string></string>
-				<key>sequence</key>
-				<string></string>
-				<key>tts</key>
-				<string></string>
 			</dict>
 			<dict>
 				<key>emoji</key>
@@ -2687,11 +2353,11 @@
 					<string>👩🏿‍⚕️</string>
 				</array>
 				<key>keywords</key>
-				<string>woman;professor;instructor;teacher</string>
+				<string>woman;healthcare;doctor;nurse;therapist</string>
 				<key>sequence</key>
-				<string>1F469 200D 1F3EB</string>
+				<string>1F469 200D 2695</string>
 				<key>tts</key>
-				<string>woman teacher</string>
+				<string>woman health worker</string>
 			</dict>
 			<dict>
 				<key>emoji</key>
@@ -2704,11 +2370,11 @@
 					<string>👨🏿‍⚕️</string>
 				</array>
 				<key>keywords</key>
-				<string>man;professor;instructor;teacher</string>
+				<string>man;healthcare;doctor;nurse;therapist</string>
 				<key>sequence</key>
-				<string>1F468 200D 1F3EB</string>
+				<string>1F468 200D 2695</string>
 				<key>tts</key>
-				<string>man teacher</string>
+				<string>man health worker</string>
 			</dict>
 			<dict>
 				<key>emoji</key>
@@ -2721,11 +2387,11 @@
 					<string>👩🏿‍🌾</string>
 				</array>
 				<key>keywords</key>
-				<string>woman;industrial;assembly;factory;worker</string>
+				<string>woman;student;graduate</string>
 				<key>sequence</key>
-				<string>1F469 200D 1F3ED</string>
+				<string>1F469 200D 1F393</string>
 				<key>tts</key>
-				<string>woman factory worker</string>
+				<string>woman student</string>
 			</dict>
 			<dict>
 				<key>emoji</key>
@@ -2738,11 +2404,11 @@
 					<string>👨🏿‍🌾</string>
 				</array>
 				<key>keywords</key>
-				<string>man;industrial;assembly;factory;worker</string>
+				<string>man;student;graduate</string>
 				<key>sequence</key>
-				<string>1F468 200D 1F3ED</string>
+				<string>1F468 200D 1F393</string>
 				<key>tts</key>
-				<string>man factory worker</string>
+				<string>man student</string>
 			</dict>
 			<dict>
 				<key>emoji</key>
@@ -2755,11 +2421,11 @@
 					<string>👩🏿‍🍳</string>
 				</array>
 				<key>keywords</key>
-				<string>artist;palette;woman</string>
+				<string>woman;farmer;rancher;gardener</string>
 				<key>sequence</key>
-				<string>1F469 200D 1F3A8</string>
+				<string>1F469 200D 1F33E</string>
 				<key>tts</key>
-				<string>woman artist</string>
+				<string>woman farmer</string>
 			</dict>
 			<dict>
 				<key>emoji</key>
@@ -2772,11 +2438,11 @@
 					<string>👨🏿‍🍳</string>
 				</array>
 				<key>keywords</key>
-				<string>artist;man;palette</string>
+				<string>man;farmer;rancher;gardener</string>
 				<key>sequence</key>
-				<string>1F468 200D 1F3A8</string>
+				<string>1F468 200D 1F33E</string>
 				<key>tts</key>
-				<string>man artist</string>
+				<string>man farmer</string>
 			</dict>
 			<dict>
 				<key>emoji</key>
@@ -2789,11 +2455,11 @@
 					<string>👩🏿‍🎓</string>
 				</array>
 				<key>keywords</key>
-				<string>firefighter;firetruck;woman</string>
+				<string>woman;cook;chef</string>
 				<key>sequence</key>
-				<string>1F469 200D 1F692</string>
+				<string>1F469 200D 1F373</string>
 				<key>tts</key>
-				<string>woman firefighter</string>
+				<string>woman cook</string>
 			</dict>
 			<dict>
 				<key>emoji</key>
@@ -2806,11 +2472,11 @@
 					<string>👨🏿‍🎓</string>
 				</array>
 				<key>keywords</key>
-				<string>firefighter;man;firetruck</string>
+				<string>man;cook;chef</string>
 				<key>sequence</key>
-				<string>1F468 200D 1F692</string>
+				<string>1F468 200D 1F373</string>
 				<key>tts</key>
-				<string>man firefighter</string>
+				<string>man cook</string>
 			</dict>
 			<dict>
 				<key>emoji</key>
@@ -2823,11 +2489,11 @@
 					<string>👩🏿‍🎤</string>
 				</array>
 				<key>keywords</key>
-				<string>pilot;plane;woman</string>
+				<string>woman;professor;instructor;teacher</string>
 				<key>sequence</key>
-				<string>1F469 200D 2708</string>
+				<string>1F469 200D 1F3EB</string>
 				<key>tts</key>
-				<string>woman pilot</string>
+				<string>woman teacher</string>
 			</dict>
 			<dict>
 				<key>emoji</key>
@@ -2840,11 +2506,11 @@
 					<string>👨🏿‍🎤</string>
 				</array>
 				<key>keywords</key>
-				<string>man;pilot;plane</string>
+				<string>man;professor;instructor;teacher</string>
 				<key>sequence</key>
-				<string>1F468 200D 2708</string>
+				<string>1F468 200D 1F3EB</string>
 				<key>tts</key>
-				<string>man pilot</string>
+				<string>man teacher</string>
 			</dict>
 			<dict>
 				<key>emoji</key>
@@ -2857,11 +2523,11 @@
 					<string>👩🏿‍🏫</string>
 				</array>
 				<key>keywords</key>
-				<string>astronaut;rocket;woman</string>
+				<string>woman;industrial;assembly;factory;worker</string>
 				<key>sequence</key>
-				<string>1F469 200D 1F680</string>
+				<string>1F469 200D 1F3ED</string>
 				<key>tts</key>
-				<string>woman astronaut</string>
+				<string>woman factory worker</string>
 			</dict>
 			<dict>
 				<key>emoji</key>
@@ -2874,11 +2540,11 @@
 					<string>👨🏿‍🏫</string>
 				</array>
 				<key>keywords</key>
-				<string>astronaut;man;rocket</string>
+				<string>man;industrial;assembly;factory;worker</string>
 				<key>sequence</key>
-				<string>1F468 200D 1F680</string>
+				<string>1F468 200D 1F3ED</string>
 				<key>tts</key>
-				<string>man astronaut</string>
+				<string>man factory worker</string>
 			</dict>
 			<dict>
 				<key>emoji</key>
@@ -2891,11 +2557,11 @@
 					<string>👩🏿‍🏭</string>
 				</array>
 				<key>keywords</key>
-				<string>woman;singer;entertainer;rock;star;actor</string>
+				<string>artist;palette;woman</string>
 				<key>sequence</key>
-				<string>1F469 200D 1F3A4</string>
+				<string>1F469 200D 1F3A8</string>
 				<key>tts</key>
-				<string>woman singer</string>
+				<string>woman artist</string>
 			</dict>
 			<dict>
 				<key>emoji</key>
@@ -2908,11 +2574,11 @@
 					<string>👨🏿‍🏭</string>
 				</array>
 				<key>keywords</key>
-				<string>man;singer;entertainer;rock;star;actor</string>
+				<string>artist;man;palette</string>
 				<key>sequence</key>
-				<string>1F468 200D 1F3A4</string>
+				<string>1F468 200D 1F3A8</string>
 				<key>tts</key>
-				<string>man singer</string>
+				<string>man artist</string>
 			</dict>
 			<dict>
 				<key>emoji</key>
@@ -2925,11 +2591,11 @@
 					<string>👩🏿‍💻</string>
 				</array>
 				<key>keywords</key>
-				<string>woman;technologist;coder;software;developer;inventor</string>
+				<string>firefighter;firetruck;woman</string>
 				<key>sequence</key>
-				<string>1F469 200D 1F4BB</string>
+				<string>1F469 200D 1F692</string>
 				<key>tts</key>
-				<string>woman technologist</string>
+				<string>woman firefighter</string>
 			</dict>
 			<dict>
 				<key>emoji</key>
@@ -2942,11 +2608,11 @@
 					<string>👨🏿‍💻</string>
 				</array>
 				<key>keywords</key>
-				<string>man;technologist;coder;software;developer;inventor</string>
+				<string>firefighter;man;firetruck</string>
 				<key>sequence</key>
-				<string>1F468 200D 1F4BB</string>
+				<string>1F468 200D 1F692</string>
 				<key>tts</key>
-				<string>man technologist</string>
+				<string>man firefighter</string>
 			</dict>
 			<dict>
 				<key>emoji</key>
@@ -2959,11 +2625,11 @@
 					<string>👩🏿‍💼</string>
 				</array>
 				<key>keywords</key>
-				<string>woman;scientist;engineer;mathematician;chemist;physicist;biologist</string>
+				<string>pilot;plane;woman</string>
 				<key>sequence</key>
-				<string>1F469 200D 1F52C</string>
+				<string>1F469 200D 2708</string>
 				<key>tts</key>
-				<string>woman scientist</string>
+				<string>woman pilot</string>
 			</dict>
 			<dict>
 				<key>emoji</key>
@@ -2976,11 +2642,11 @@
 					<string>👨🏿‍💼</string>
 				</array>
 				<key>keywords</key>
-				<string>man;scientist;engineer;mathematician;chemist;physicist;biologist</string>
+				<string>man;pilot;plane</string>
 				<key>sequence</key>
-				<string>1F468 200D 1F52C</string>
+				<string>1F468 200D 2708</string>
 				<key>tts</key>
-				<string>man scientist</string>
+				<string>man pilot</string>
 			</dict>
 			<dict>
 				<key>emoji</key>
@@ -2993,11 +2659,11 @@
 					<string>👩🏿‍🔧</string>
 				</array>
 				<key>keywords</key>
-				<string>woman;office;business;manager;architect;white-collar</string>
+				<string>astronaut;rocket;woman</string>
 				<key>sequence</key>
-				<string>1F469 200D 1F4BC</string>
+				<string>1F469 200D 1F680</string>
 				<key>tts</key>
-				<string>woman office worker</string>
+				<string>woman astronaut</string>
 			</dict>
 			<dict>
 				<key>emoji</key>
@@ -3010,11 +2676,11 @@
 					<string>👨🏿‍🔧</string>
 				</array>
 				<key>keywords</key>
-				<string>man;office;business;manager;architect;white-collar</string>
+				<string>astronaut;man;rocket</string>
 				<key>sequence</key>
-				<string>1F468 200D 1F4BC</string>
+				<string>1F468 200D 1F680</string>
 				<key>tts</key>
-				<string>man office worker</string>
+				<string>man astronaut</string>
 			</dict>
 			<dict>
 				<key>emoji</key>
@@ -3027,11 +2693,11 @@
 					<string>👩🏿‍🔬</string>
 				</array>
 				<key>keywords</key>
-				<string>woman;tradesperson;mechanic;plumber;electrician</string>
+				<string>woman;singer;entertainer;rock;star;actor</string>
 				<key>sequence</key>
-				<string>1F469 200D 1F527</string>
+				<string>1F469 200D 1F3A4</string>
 				<key>tts</key>
-				<string>woman mechanic</string>
+				<string>woman singer</string>
 			</dict>
 			<dict>
 				<key>emoji</key>
@@ -3044,11 +2710,11 @@
 					<string>👨🏿‍🔬</string>
 				</array>
 				<key>keywords</key>
-				<string>man;tradesperson;mechanic;plumber;electrician</string>
+				<string>man;singer;entertainer;rock;star;actor</string>
 				<key>sequence</key>
-				<string>1F468 200D 1F527</string>
+				<string>1F468 200D 1F3A4</string>
 				<key>tts</key>
-				<string>man mechanic</string>
+				<string>man singer</string>
 			</dict>
 			<dict>
 				<key>emoji</key>
@@ -3061,11 +2727,11 @@
 					<string>👩🏿‍🎨</string>
 				</array>
 				<key>keywords</key>
-				<string>judge;woman;scales</string>
+				<string>woman;technologist;coder;software;developer;inventor</string>
 				<key>sequence</key>
-				<string>1F469 200D 2696</string>
+				<string>1F469 200D 1F4BB</string>
 				<key>tts</key>
-				<string>woman judge</string>
+				<string>woman technologist</string>
 			</dict>
 			<dict>
 				<key>emoji</key>
@@ -3078,11 +2744,11 @@
 					<string>👨🏿‍🎨</string>
 				</array>
 				<key>keywords</key>
-				<string>justice;man;scales</string>
+				<string>man;technologist;coder;software;developer;inventor</string>
 				<key>sequence</key>
-				<string>1F468 200D 2696</string>
+				<string>1F468 200D 1F4BB</string>
 				<key>tts</key>
-				<string>man judge</string>
+				<string>man technologist</string>
 			</dict>
 			<dict>
 				<key>emoji</key>
@@ -3095,11 +2761,11 @@
 					<string>👩🏿‍🚒</string>
 				</array>
 				<key>keywords</key>
-				<string></string>
+				<string>woman;scientist;engineer;mathematician;chemist;physicist;biologist</string>
 				<key>sequence</key>
-				<string></string>
+				<string>1F469 200D 1F52C</string>
 				<key>tts</key>
-				<string></string>
+				<string>woman scientist</string>
 			</dict>
 			<dict>
 				<key>emoji</key>
@@ -3112,11 +2778,11 @@
 					<string>👨🏿‍🚒</string>
 				</array>
 				<key>keywords</key>
-				<string></string>
+				<string>man;scientist;engineer;mathematician;chemist;physicist;biologist</string>
 				<key>sequence</key>
-				<string></string>
+				<string>1F468 200D 1F52C</string>
 				<key>tts</key>
-				<string></string>
+				<string>man scientist</string>
 			</dict>
 			<dict>
 				<key>emoji</key>
@@ -3129,11 +2795,11 @@
 					<string>👩🏿‍✈️</string>
 				</array>
 				<key>keywords</key>
-				<string></string>
+				<string>woman;office;business;manager;architect;white-collar</string>
 				<key>sequence</key>
-				<string></string>
+				<string>1F469 200D 1F4BC</string>
 				<key>tts</key>
-				<string></string>
+				<string>woman office worker</string>
 			</dict>
 			<dict>
 				<key>emoji</key>
@@ -3146,11 +2812,11 @@
 					<string>👨🏿‍✈️</string>
 				</array>
 				<key>keywords</key>
-				<string></string>
+				<string>man;office;business;manager;architect;white-collar</string>
 				<key>sequence</key>
-				<string></string>
+				<string>1F468 200D 1F4BC</string>
 				<key>tts</key>
-				<string></string>
+				<string>man office worker</string>
 			</dict>
 			<dict>
 				<key>emoji</key>
@@ -3163,11 +2829,11 @@
 					<string>👩🏿‍🚀</string>
 				</array>
 				<key>keywords</key>
-				<string></string>
+				<string>woman;tradesperson;mechanic;plumber;electrician</string>
 				<key>sequence</key>
-				<string></string>
+				<string>1F469 200D 1F527</string>
 				<key>tts</key>
-				<string></string>
+				<string>woman mechanic</string>
 			</dict>
 			<dict>
 				<key>emoji</key>
@@ -3180,11 +2846,11 @@
 					<string>👨🏿‍🚀</string>
 				</array>
 				<key>keywords</key>
-				<string></string>
+				<string>man;tradesperson;mechanic;plumber;electrician</string>
 				<key>sequence</key>
-				<string></string>
+				<string>1F468 200D 1F527</string>
 				<key>tts</key>
-				<string></string>
+				<string>man mechanic</string>
 			</dict>
 			<dict>
 				<key>emoji</key>
@@ -3197,11 +2863,11 @@
 					<string>👩🏿‍⚖️</string>
 				</array>
 				<key>keywords</key>
-				<string></string>
+				<string>judge;woman;scales</string>
 				<key>sequence</key>
-				<string></string>
+				<string>1F469 200D 2696</string>
 				<key>tts</key>
-				<string></string>
+				<string>woman judge</string>
 			</dict>
 			<dict>
 				<key>emoji</key>
@@ -3214,11 +2880,11 @@
 					<string>👨🏿‍⚖️</string>
 				</array>
 				<key>keywords</key>
-				<string></string>
+				<string>justice;man;scales</string>
 				<key>sequence</key>
-				<string></string>
+				<string>1F468 200D 2696</string>
 				<key>tts</key>
-				<string></string>
+				<string>man judge</string>
 			</dict>
 			<dict>
 				<key>emoji</key>
@@ -4733,30 +4399,6 @@
 			<dict>
 				<key>emoji</key>
 				<array>
-					<string>🥾</string>
-				</array>
-				<key>keywords</key>
-				<string></string>
-				<key>sequence</key>
-				<string></string>
-				<key>tts</key>
-				<string></string>
-			</dict>
-			<dict>
-				<key>emoji</key>
-				<array>
-					<string>🥿</string>
-				</array>
-				<key>keywords</key>
-				<string></string>
-				<key>sequence</key>
-				<string></string>
-				<key>tts</key>
-				<string></string>
-			</dict>
-			<dict>
-				<key>emoji</key>
-				<array>
 					<string>🧦</string>
 				</array>
 				<key>keywords</key>
@@ -4949,30 +4591,6 @@
 			<dict>
 				<key>emoji</key>
 				<array>
-					<string>🥽</string>
-				</array>
-				<key>keywords</key>
-				<string></string>
-				<key>sequence</key>
-				<string></string>
-				<key>tts</key>
-				<string></string>
-			</dict>
-			<dict>
-				<key>emoji</key>
-				<array>
-					<string>🥼</string>
-				</array>
-				<key>keywords</key>
-				<string></string>
-				<key>sequence</key>
-				<string></string>
-				<key>tts</key>
-				<string></string>
-			</dict>
-			<dict>
-				<key>emoji</key>
-				<array>
 					<string>🌂</string>
 				</array>
 				<key>keywords</key>
@@ -4981,30 +4599,6 @@
 				<string>1F302</string>
 				<key>tts</key>
 				<string>closed umbrella</string>
-			</dict>
-			<dict>
-				<key>emoji</key>
-				<array>
-					<string>🧵</string>
-				</array>
-				<key>keywords</key>
-				<string></string>
-				<key>sequence</key>
-				<string></string>
-				<key>tts</key>
-				<string></string>
-			</dict>
-			<dict>
-				<key>emoji</key>
-				<array>
-					<string>🧶</string>
-				</array>
-				<key>keywords</key>
-				<string></string>
-				<key>sequence</key>
-				<string></string>
-				<key>tts</key>
-				<string></string>
 			</dict>
 		</array>
 		<key>title</key>
@@ -5088,18 +4682,6 @@
 			<dict>
 				<key>emoji</key>
 				<array>
-					<string>🦝</string>
-				</array>
-				<key>keywords</key>
-				<string></string>
-				<key>sequence</key>
-				<string></string>
-				<key>tts</key>
-				<string></string>
-			</dict>
-			<dict>
-				<key>emoji</key>
-				<array>
 					<string>🐻</string>
 				</array>
 				<key>keywords</key>
@@ -5120,30 +4702,6 @@
 				<string>1F43C</string>
 				<key>tts</key>
 				<string>panda face</string>
-			</dict>
-			<dict>
-				<key>emoji</key>
-				<array>
-					<string>🦘</string>
-				</array>
-				<key>keywords</key>
-				<string></string>
-				<key>sequence</key>
-				<string></string>
-				<key>tts</key>
-				<string></string>
-			</dict>
-			<dict>
-				<key>emoji</key>
-				<array>
-					<string>🦡</string>
-				</array>
-				<key>keywords</key>
-				<string></string>
-				<key>sequence</key>
-				<string></string>
-				<key>tts</key>
-				<string></string>
 			</dict>
 			<dict>
 				<key>emoji</key>
@@ -5376,18 +4934,6 @@
 			<dict>
 				<key>emoji</key>
 				<array>
-					<string>🦢</string>
-				</array>
-				<key>keywords</key>
-				<string></string>
-				<key>sequence</key>
-				<string></string>
-				<key>tts</key>
-				<string></string>
-			</dict>
-			<dict>
-				<key>emoji</key>
-				<array>
 					<string>🦅</string>
 				</array>
 				<key>keywords</key>
@@ -5408,30 +4954,6 @@
 				<string>1F989</string>
 				<key>tts</key>
 				<string>owl</string>
-			</dict>
-			<dict>
-				<key>emoji</key>
-				<array>
-					<string>🦚</string>
-				</array>
-				<key>keywords</key>
-				<string></string>
-				<key>sequence</key>
-				<string></string>
-				<key>tts</key>
-				<string></string>
-			</dict>
-			<dict>
-				<key>emoji</key>
-				<array>
-					<string>🦜 </string>
-				</array>
-				<key>keywords</key>
-				<string></string>
-				<key>sequence</key>
-				<string></string>
-				<key>tts</key>
-				<string></string>
 			</dict>
 			<dict>
 				<key>emoji</key>
@@ -5628,30 +5150,6 @@
 			<dict>
 				<key>emoji</key>
 				<array>
-					<string>🦟</string>
-				</array>
-				<key>keywords</key>
-				<string></string>
-				<key>sequence</key>
-				<string></string>
-				<key>tts</key>
-				<string></string>
-			</dict>
-			<dict>
-				<key>emoji</key>
-				<array>
-					<string>🦠</string>
-				</array>
-				<key>keywords</key>
-				<string></string>
-				<key>sequence</key>
-				<string></string>
-				<key>tts</key>
-				<string></string>
-			</dict>
-			<dict>
-				<key>emoji</key>
-				<array>
 					<string>🐢</string>
 				</array>
 				<key>keywords</key>
@@ -5744,18 +5242,6 @@
 				<string>1F990</string>
 				<key>tts</key>
 				<string>shrimp</string>
-			</dict>
-			<dict>
-				<key>emoji</key>
-				<array>
-					<string>🦞</string>
-				</array>
-				<key>keywords</key>
-				<string></string>
-				<key>sequence</key>
-				<string></string>
-				<key>tts</key>
-				<string></string>
 			</dict>
 			<dict>
 				<key>emoji</key>
@@ -5940,18 +5426,6 @@
 			<dict>
 				<key>emoji</key>
 				<array>
-					<string>🦛</string>
-				</array>
-				<key>keywords</key>
-				<string></string>
-				<key>sequence</key>
-				<string></string>
-				<key>tts</key>
-				<string></string>
-			</dict>
-			<dict>
-				<key>emoji</key>
-				<array>
 					<string>🐪</string>
 				</array>
 				<key>keywords</key>
@@ -5972,18 +5446,6 @@
 				<string>1F42B</string>
 				<key>tts</key>
 				<string>two-hump camel</string>
-			</dict>
-			<dict>
-				<key>emoji</key>
-				<array>
-					<string>🦙</string>
-				</array>
-				<key>keywords</key>
-				<string></string>
-				<key>sequence</key>
-				<string></string>
-				<key>tts</key>
-				<string></string>
 			</dict>
 			<dict>
 				<key>emoji</key>
@@ -7303,18 +6765,6 @@
 			<dict>
 				<key>emoji</key>
 				<array>
-					<string>🥭</string>
-				</array>
-				<key>keywords</key>
-				<string></string>
-				<key>sequence</key>
-				<string></string>
-				<key>tts</key>
-				<string></string>
-			</dict>
-			<dict>
-				<key>emoji</key>
-				<array>
 					<string>🥥</string>
 				</array>
 				<key>keywords</key>
@@ -7395,18 +6845,6 @@
 				<string>1F952</string>
 				<key>tts</key>
 				<string>cucumber</string>
-			</dict>
-			<dict>
-				<key>emoji</key>
-				<array>
-					<string>🥬</string>
-				</array>
-				<key>keywords</key>
-				<string></string>
-				<key>sequence</key>
-				<string></string>
-				<key>tts</key>
-				<string></string>
 			</dict>
 			<dict>
 				<key>emoji</key>
@@ -7508,18 +6946,6 @@
 				<key>emoji</key>
 				<array>
 					<string>🥨</string>
-				</array>
-				<key>keywords</key>
-				<string></string>
-				<key>sequence</key>
-				<string></string>
-				<key>tts</key>
-				<string></string>
-			</dict>
-			<dict>
-				<key>emoji</key>
-				<array>
-					<string>🥯</string>
 				</array>
 				<key>keywords</key>
 				<string></string>
@@ -7903,18 +7329,6 @@
 			<dict>
 				<key>emoji</key>
 				<array>
-					<string>🥮</string>
-				</array>
-				<key>keywords</key>
-				<string></string>
-				<key>sequence</key>
-				<string></string>
-				<key>tts</key>
-				<string></string>
-			</dict>
-			<dict>
-				<key>emoji</key>
-				<array>
 					<string>🥠</string>
 				</array>
 				<key>keywords</key>
@@ -7983,18 +7397,6 @@
 				<string>1F366</string>
 				<key>tts</key>
 				<string>soft ice cream</string>
-			</dict>
-			<dict>
-				<key>emoji</key>
-				<array>
-					<string>🧁</string>
-				</array>
-				<key>keywords</key>
-				<string></string>
-				<key>sequence</key>
-				<string></string>
-				<key>tts</key>
-				<string></string>
 			</dict>
 			<dict>
 				<key>emoji</key>
@@ -8091,18 +7493,6 @@
 				<string>1F37F</string>
 				<key>tts</key>
 				<string>popcorn</string>
-			</dict>
-			<dict>
-				<key>emoji</key>
-				<array>
-					<string>🧂</string>
-				</array>
-				<key>keywords</key>
-				<string></string>
-				<key>sequence</key>
-				<string></string>
-				<key>tts</key>
-				<string></string>
 			</dict>
 			<dict>
 				<key>emoji</key>
@@ -8462,6 +7852,18 @@
 			<dict>
 				<key>emoji</key>
 				<array>
+					<string>🎾</string>
+				</array>
+				<key>keywords</key>
+				<string>ball;racquet</string>
+				<key>sequence</key>
+				<string>1F3BE</string>
+				<key>tts</key>
+				<string>tennis</string>
+			</dict>
+			<dict>
+				<key>emoji</key>
+				<array>
 					<string>🏐</string>
 				</array>
 				<key>keywords</key>
@@ -8482,30 +7884,6 @@
 				<string>1F3C9</string>
 				<key>tts</key>
 				<string>rugby football</string>
-			</dict>
-			<dict>
-				<key>emoji</key>
-				<array>
-					<string>🎾</string>
-				</array>
-				<key>keywords</key>
-				<string>ball;racquet</string>
-				<key>sequence</key>
-				<string>1F3BE</string>
-				<key>tts</key>
-				<string>tennis</string>
-			</dict>
-			<dict>
-				<key>emoji</key>
-				<array>
-					<string>🥏</string>
-				</array>
-				<key>keywords</key>
-				<string></string>
-				<key>sequence</key>
-				<string></string>
-				<key>tts</key>
-				<string></string>
 			</dict>
 			<dict>
 				<key>emoji</key>
@@ -8578,18 +7956,6 @@
 				<string>1F3D1</string>
 				<key>tts</key>
 				<string>field hockey</string>
-			</dict>
-			<dict>
-				<key>emoji</key>
-				<array>
-					<string>🥍 </string>
-				</array>
-				<key>keywords</key>
-				<string></string>
-				<key>sequence</key>
-				<string></string>
-				<key>tts</key>
-				<string></string>
 			</dict>
 			<dict>
 				<key>emoji</key>
@@ -8703,18 +8069,6 @@
 				<key>emoji</key>
 				<array>
 					<string>🛷</string>
-				</array>
-				<key>keywords</key>
-				<string></string>
-				<key>sequence</key>
-				<string></string>
-				<key>tts</key>
-				<string></string>
-			</dict>
-			<dict>
-				<key>emoji</key>
-				<array>
-					<string>🛹</string>
 				</array>
 				<key>keywords</key>
 				<string></string>
@@ -9575,30 +8929,6 @@
 				<string>1F3B2</string>
 				<key>tts</key>
 				<string>game die</string>
-			</dict>
-			<dict>
-				<key>emoji</key>
-				<array>
-					<string>🧩</string>
-				</array>
-				<key>keywords</key>
-				<string></string>
-				<key>sequence</key>
-				<string></string>
-				<key>tts</key>
-				<string></string>
-			</dict>
-			<dict>
-				<key>emoji</key>
-				<array>
-					<string>♟</string>
-				</array>
-				<key>keywords</key>
-				<string></string>
-				<key>sequence</key>
-				<string></string>
-				<key>tts</key>
-				<string></string>
 			</dict>
 			<dict>
 				<key>emoji</key>
@@ -11393,18 +10723,6 @@
 			<dict>
 				<key>emoji</key>
 				<array>
-					<string>🧮</string>
-				</array>
-				<key>keywords</key>
-				<string></string>
-				<key>sequence</key>
-				<string></string>
-				<key>tts</key>
-				<string></string>
-			</dict>
-			<dict>
-				<key>emoji</key>
-				<array>
 					<string>📟</string>
 				</array>
 				<key>keywords</key>
@@ -11741,18 +11059,6 @@
 			<dict>
 				<key>emoji</key>
 				<array>
-					<string>🧾</string>
-				</array>
-				<key>keywords</key>
-				<string></string>
-				<key>sequence</key>
-				<string></string>
-				<key>tts</key>
-				<string></string>
-			</dict>
-			<dict>
-				<key>emoji</key>
-				<array>
 					<string>💎</string>
 				</array>
 				<key>keywords</key>
@@ -11993,30 +11299,6 @@
 			<dict>
 				<key>emoji</key>
 				<array>
-					<string>🧭</string>
-				</array>
-				<key>keywords</key>
-				<string></string>
-				<key>sequence</key>
-				<string></string>
-				<key>tts</key>
-				<string></string>
-			</dict>
-			<dict>
-				<key>emoji</key>
-				<array>
-					<string>🧱</string>
-				</array>
-				<key>keywords</key>
-				<string></string>
-				<key>sequence</key>
-				<string></string>
-				<key>tts</key>
-				<string></string>
-			</dict>
-			<dict>
-				<key>emoji</key>
-				<array>
 					<string>🔮</string>
 				</array>
 				<key>keywords</key>
@@ -12025,30 +11307,6 @@
 				<string>1F52E</string>
 				<key>tts</key>
 				<string>crystal ball</string>
-			</dict>
-			<dict>
-				<key>emoji</key>
-				<array>
-					<string>🧿</string>
-				</array>
-				<key>keywords</key>
-				<string></string>
-				<key>sequence</key>
-				<string></string>
-				<key>tts</key>
-				<string></string>
-			</dict>
-			<dict>
-				<key>emoji</key>
-				<array>
-					<string>🧸</string>
-				</array>
-				<key>keywords</key>
-				<string></string>
-				<key>sequence</key>
-				<string></string>
-				<key>tts</key>
-				<string></string>
 			</dict>
 			<dict>
 				<key>emoji</key>
@@ -12097,78 +11355,6 @@
 				<string>1F52D</string>
 				<key>tts</key>
 				<string>telescope</string>
-			</dict>
-			<dict>
-				<key>emoji</key>
-				<array>
-					<string>🧰</string>
-				</array>
-				<key>keywords</key>
-				<string></string>
-				<key>sequence</key>
-				<string></string>
-				<key>tts</key>
-				<string></string>
-			</dict>
-			<dict>
-				<key>emoji</key>
-				<array>
-					<string>🧲</string>
-				</array>
-				<key>keywords</key>
-				<string></string>
-				<key>sequence</key>
-				<string></string>
-				<key>tts</key>
-				<string></string>
-			</dict>
-			<dict>
-				<key>emoji</key>
-				<array>
-					<string>🧪</string>
-				</array>
-				<key>keywords</key>
-				<string></string>
-				<key>sequence</key>
-				<string></string>
-				<key>tts</key>
-				<string></string>
-			</dict>
-			<dict>
-				<key>emoji</key>
-				<array>
-					<string>🧫</string>
-				</array>
-				<key>keywords</key>
-				<string></string>
-				<key>sequence</key>
-				<string></string>
-				<key>tts</key>
-				<string></string>
-			</dict>
-			<dict>
-				<key>emoji</key>
-				<array>
-					<string>🧬</string>
-				</array>
-				<key>keywords</key>
-				<string></string>
-				<key>sequence</key>
-				<string></string>
-				<key>tts</key>
-				<string></string>
-			</dict>
-			<dict>
-				<key>emoji</key>
-				<array>
-					<string>🧯</string>
-				</array>
-				<key>keywords</key>
-				<string></string>
-				<key>sequence</key>
-				<string></string>
-				<key>tts</key>
-				<string></string>
 			</dict>
 			<dict>
 				<key>emoji</key>
@@ -12248,11 +11434,11 @@
 					<string>🚰</string>
 				</array>
 				<key>keywords</key>
-				<string></string>
+				<string>drinking;potable;water</string>
 				<key>sequence</key>
-				<string></string>
+				<string>1F6B0</string>
 				<key>tts</key>
-				<string></string>
+				<string>potable water</string>
 			</dict>
 			<dict>
 				<key>emoji</key>
@@ -12353,114 +11539,6 @@
 			<dict>
 				<key>emoji</key>
 				<array>
-					<string>🧴</string>
-				</array>
-				<key>keywords</key>
-				<string></string>
-				<key>sequence</key>
-				<string></string>
-				<key>tts</key>
-				<string></string>
-			</dict>
-			<dict>
-				<key>emoji</key>
-				<array>
-					<string>🧵</string>
-				</array>
-				<key>keywords</key>
-				<string></string>
-				<key>sequence</key>
-				<string></string>
-				<key>tts</key>
-				<string></string>
-			</dict>
-			<dict>
-				<key>emoji</key>
-				<array>
-					<string>🧶</string>
-				</array>
-				<key>keywords</key>
-				<string></string>
-				<key>sequence</key>
-				<string></string>
-				<key>tts</key>
-				<string></string>
-			</dict>
-			<dict>
-				<key>emoji</key>
-				<array>
-					<string>🧷</string>
-				</array>
-				<key>keywords</key>
-				<string></string>
-				<key>sequence</key>
-				<string></string>
-				<key>tts</key>
-				<string></string>
-			</dict>
-			<dict>
-				<key>emoji</key>
-				<array>
-					<string>🧹 </string>
-				</array>
-				<key>keywords</key>
-				<string></string>
-				<key>sequence</key>
-				<string></string>
-				<key>tts</key>
-				<string></string>
-			</dict>
-			<dict>
-				<key>emoji</key>
-				<array>
-					<string>🧺</string>
-				</array>
-				<key>keywords</key>
-				<string></string>
-				<key>sequence</key>
-				<string></string>
-				<key>tts</key>
-				<string></string>
-			</dict>
-			<dict>
-				<key>emoji</key>
-				<array>
-					<string>🧻</string>
-				</array>
-				<key>keywords</key>
-				<string></string>
-				<key>sequence</key>
-				<string></string>
-				<key>tts</key>
-				<string></string>
-			</dict>
-			<dict>
-				<key>emoji</key>
-				<array>
-					<string>🧼</string>
-				</array>
-				<key>keywords</key>
-				<string></string>
-				<key>sequence</key>
-				<string></string>
-				<key>tts</key>
-				<string></string>
-			</dict>
-			<dict>
-				<key>emoji</key>
-				<array>
-					<string>🧽</string>
-				</array>
-				<key>keywords</key>
-				<string></string>
-				<key>sequence</key>
-				<string></string>
-				<key>tts</key>
-				<string></string>
-			</dict>
-			<dict>
-				<key>emoji</key>
-				<array>
 					<string>🛎</string>
 				</array>
 				<key>keywords</key>
@@ -12476,11 +11554,11 @@
 					<string>🔑</string>
 				</array>
 				<key>keywords</key>
-				<string></string>
+				<string>lock;password</string>
 				<key>sequence</key>
-				<string></string>
+				<string>1F511</string>
 				<key>tts</key>
-				<string></string>
+				<string>key</string>
 			</dict>
 			<dict>
 				<key>emoji</key>
@@ -12488,11 +11566,11 @@
 					<string>🗝</string>
 				</array>
 				<key>keywords</key>
-				<string></string>
+				<string>clue;key;lock;old</string>
 				<key>sequence</key>
-				<string></string>
+				<string>1F5DD</string>
 				<key>tts</key>
-				<string></string>
+				<string>old key</string>
 			</dict>
 			<dict>
 				<key>emoji</key>
@@ -12565,18 +11643,6 @@
 				<string>1F6CD</string>
 				<key>tts</key>
 				<string>shopping bags</string>
-			</dict>
-			<dict>
-				<key>emoji</key>
-				<array>
-					<string>🧳</string>
-				</array>
-				<key>keywords</key>
-				<string></string>
-				<key>sequence</key>
-				<string></string>
-				<key>tts</key>
-				<string></string>
 			</dict>
 			<dict>
 				<key>emoji</key>
@@ -12665,18 +11731,6 @@
 			<dict>
 				<key>emoji</key>
 				<array>
-					<string>🧨</string>
-				</array>
-				<key>keywords</key>
-				<string></string>
-				<key>sequence</key>
-				<string></string>
-				<key>tts</key>
-				<string></string>
-			</dict>
-			<dict>
-				<key>emoji</key>
-				<array>
 					<string>🎎</string>
 				</array>
 				<key>keywords</key>
@@ -12709,18 +11763,6 @@
 				<string>1F390</string>
 				<key>tts</key>
 				<string>wind chime</string>
-			</dict>
-			<dict>
-				<key>emoji</key>
-				<array>
-					<string>🧧</string>
-				</array>
-				<key>keywords</key>
-				<string></string>
-				<key>sequence</key>
-				<string></string>
-				<key>tts</key>
-				<string></string>
 			</dict>
 			<dict>
 				<key>emoji</key>
@@ -13052,11 +12094,11 @@
 					<string>🗃</string>
 				</array>
 				<key>keywords</key>
-				<string></string>
+				<string>box;card;file</string>
 				<key>sequence</key>
-				<string></string>
+				<string>1F5C3</string>
 				<key>tts</key>
-				<string></string>
+				<string>card file box</string>
 			</dict>
 			<dict>
 				<key>emoji</key>
@@ -13076,11 +12118,11 @@
 					<string>🗄</string>
 				</array>
 				<key>keywords</key>
-				<string></string>
+				<string>cabinet;file;filing</string>
 				<key>sequence</key>
-				<string></string>
+				<string>1F5C4</string>
 				<key>tts</key>
-				<string></string>
+				<string>file cabinet</string>
 			</dict>
 			<dict>
 				<key>emoji</key>
@@ -13088,11 +12130,11 @@
 					<string>📋</string>
 				</array>
 				<key>keywords</key>
-				<string></string>
+				<string>clipboard</string>
 				<key>sequence</key>
-				<string></string>
+				<string>1F4CB</string>
 				<key>tts</key>
-				<string></string>
+				<string>clipboard</string>
 			</dict>
 			<dict>
 				<key>emoji</key>
@@ -13100,11 +12142,11 @@
 					<string>📁</string>
 				</array>
 				<key>keywords</key>
-				<string></string>
+				<string>file;folder</string>
 				<key>sequence</key>
-				<string></string>
+				<string>1F4C1</string>
 				<key>tts</key>
-				<string></string>
+				<string>file folder</string>
 			</dict>
 			<dict>
 				<key>emoji</key>
@@ -13112,11 +12154,11 @@
 					<string>📂</string>
 				</array>
 				<key>keywords</key>
-				<string></string>
+				<string>file;folder;open</string>
 				<key>sequence</key>
-				<string></string>
+				<string>1F4C2</string>
 				<key>tts</key>
-				<string></string>
+				<string>open file folder</string>
 			</dict>
 			<dict>
 				<key>emoji</key>
@@ -13124,11 +12166,11 @@
 					<string>🗂</string>
 				</array>
 				<key>keywords</key>
-				<string></string>
+				<string>card;dividers;index</string>
 				<key>sequence</key>
-				<string></string>
+				<string>1F5C2</string>
 				<key>tts</key>
-				<string></string>
+				<string>card index dividers</string>
 			</dict>
 			<dict>
 				<key>emoji</key>
@@ -13280,11 +12322,11 @@
 					<string>🔗</string>
 				</array>
 				<key>keywords</key>
-				<string></string>
+				<string>link</string>
 				<key>sequence</key>
-				<string></string>
+				<string>1F517</string>
 				<key>tts</key>
-				<string></string>
+				<string>link</string>
 			</dict>
 			<dict>
 				<key>emoji</key>
@@ -13292,11 +12334,11 @@
 					<string>📎</string>
 				</array>
 				<key>keywords</key>
-				<string></string>
+				<string>paperclip</string>
 				<key>sequence</key>
-				<string></string>
+				<string>1F4CE</string>
 				<key>tts</key>
-				<string></string>
+				<string>paperclip</string>
 			</dict>
 			<dict>
 				<key>emoji</key>
@@ -13304,11 +12346,11 @@
 					<string>🖇</string>
 				</array>
 				<key>keywords</key>
-				<string></string>
+				<string>link;paperclip</string>
 				<key>sequence</key>
-				<string></string>
+				<string>1F587</string>
 				<key>tts</key>
-				<string></string>
+				<string>linked paperclips</string>
 			</dict>
 			<dict>
 				<key>emoji</key>
@@ -13316,11 +12358,11 @@
 					<string>📐</string>
 				</array>
 				<key>keywords</key>
-				<string></string>
+				<string>ruler;set;triangle</string>
 				<key>sequence</key>
-				<string></string>
+				<string>1F4D0</string>
 				<key>tts</key>
-				<string></string>
+				<string>triangular ruler</string>
 			</dict>
 			<dict>
 				<key>emoji</key>
@@ -13328,11 +12370,11 @@
 					<string>📏</string>
 				</array>
 				<key>keywords</key>
-				<string></string>
+				<string>ruler;straight edge</string>
 				<key>sequence</key>
-				<string></string>
+				<string>1F4CF</string>
 				<key>tts</key>
-				<string></string>
+				<string>straight ruler</string>
 			</dict>
 			<dict>
 				<key>emoji</key>
@@ -13340,11 +12382,11 @@
 					<string>📌</string>
 				</array>
 				<key>keywords</key>
-				<string></string>
+				<string>pin</string>
 				<key>sequence</key>
-				<string></string>
+				<string>1F4CC</string>
 				<key>tts</key>
-				<string></string>
+				<string>pushpin</string>
 			</dict>
 			<dict>
 				<key>emoji</key>
@@ -13352,11 +12394,11 @@
 					<string>📍</string>
 				</array>
 				<key>keywords</key>
-				<string></string>
+				<string>pin;pushpin</string>
 				<key>sequence</key>
-				<string></string>
+				<string>1F4CD</string>
 				<key>tts</key>
-				<string></string>
+				<string>round pushpin</string>
 			</dict>
 			<dict>
 				<key>emoji</key>
@@ -13376,11 +12418,11 @@
 					<string>🖊</string>
 				</array>
 				<key>keywords</key>
-				<string></string>
+				<string>ballpoint</string>
 				<key>sequence</key>
-				<string></string>
+				<string>1F58A</string>
 				<key>tts</key>
-				<string></string>
+				<string>pen</string>
 			</dict>
 			<dict>
 				<key>emoji</key>
@@ -13388,11 +12430,11 @@
 					<string>🖋</string>
 				</array>
 				<key>keywords</key>
-				<string></string>
+				<string>fountain;pen</string>
 				<key>sequence</key>
-				<string></string>
+				<string>1F58B</string>
 				<key>tts</key>
-				<string></string>
+				<string>fountain pen</string>
 			</dict>
 			<dict>
 				<key>emoji</key>
@@ -13412,11 +12454,11 @@
 					<string>🖌</string>
 				</array>
 				<key>keywords</key>
-				<string></string>
+				<string>painting</string>
 				<key>sequence</key>
-				<string></string>
+				<string>1F58C</string>
 				<key>tts</key>
-				<string></string>
+				<string>paintbrush</string>
 			</dict>
 			<dict>
 				<key>emoji</key>
@@ -13424,11 +12466,11 @@
 					<string>🖍</string>
 				</array>
 				<key>keywords</key>
-				<string></string>
+				<string>crayon</string>
 				<key>sequence</key>
-				<string></string>
+				<string>1F58D</string>
 				<key>tts</key>
-				<string></string>
+				<string>crayon</string>
 			</dict>
 			<dict>
 				<key>emoji</key>
@@ -13436,11 +12478,11 @@
 					<string>📝</string>
 				</array>
 				<key>keywords</key>
-				<string></string>
+				<string>pencil</string>
 				<key>sequence</key>
-				<string></string>
+				<string>1F4DD</string>
 				<key>tts</key>
-				<string></string>
+				<string>memo</string>
 			</dict>
 			<dict>
 				<key>emoji</key>
@@ -13448,11 +12490,11 @@
 					<string>✏️</string>
 				</array>
 				<key>keywords</key>
-				<string></string>
+				<string>pencil</string>
 				<key>sequence</key>
-				<string></string>
+				<string>270F</string>
 				<key>tts</key>
-				<string></string>
+				<string>pencil</string>
 			</dict>
 			<dict>
 				<key>emoji</key>
@@ -13460,11 +12502,11 @@
 					<string>🔍</string>
 				</array>
 				<key>keywords</key>
-				<string></string>
+				<string>glass;magnifying;search;tool</string>
 				<key>sequence</key>
-				<string></string>
+				<string>1F50D</string>
 				<key>tts</key>
-				<string></string>
+				<string>left-pointing magnifying glass</string>
 			</dict>
 			<dict>
 				<key>emoji</key>
@@ -13472,11 +12514,11 @@
 					<string>🔎</string>
 				</array>
 				<key>keywords</key>
-				<string></string>
+				<string>glass;magnifying;search;tool</string>
 				<key>sequence</key>
-				<string></string>
+				<string>1F50E</string>
 				<key>tts</key>
-				<string></string>
+				<string>right-pointing magnifying glass</string>
 			</dict>
 			<dict>
 				<key>emoji</key>
@@ -13484,11 +12526,11 @@
 					<string>🔏</string>
 				</array>
 				<key>keywords</key>
-				<string></string>
+				<string>ink;lock;nib;pen;privacy</string>
 				<key>sequence</key>
-				<string></string>
+				<string>1F50F</string>
 				<key>tts</key>
-				<string></string>
+				<string>locked with pen</string>
 			</dict>
 			<dict>
 				<key>emoji</key>
@@ -13496,11 +12538,11 @@
 					<string>🔐</string>
 				</array>
 				<key>keywords</key>
-				<string></string>
+				<string>closed;key;lock;secure</string>
 				<key>sequence</key>
-				<string></string>
+				<string>1F510</string>
 				<key>tts</key>
-				<string></string>
+				<string>locked with key</string>
 			</dict>
 			<dict>
 				<key>emoji</key>
@@ -13508,11 +12550,11 @@
 					<string>🔒</string>
 				</array>
 				<key>keywords</key>
-				<string></string>
+				<string>closed</string>
 				<key>sequence</key>
-				<string></string>
+				<string>1F512</string>
 				<key>tts</key>
-				<string></string>
+				<string>locked</string>
 			</dict>
 			<dict>
 				<key>emoji</key>
@@ -13520,11 +12562,11 @@
 					<string>🔓</string>
 				</array>
 				<key>keywords</key>
-				<string></string>
+				<string>lock;open;unlock</string>
 				<key>sequence</key>
-				<string></string>
+				<string>1F513</string>
 				<key>tts</key>
-				<string></string>
+				<string>unlocked</string>
 			</dict>
 		</array>
 		<key>title</key>
@@ -13743,11 +12785,11 @@
 					<string>☮️</string>
 				</array>
 				<key>keywords</key>
-				<string></string>
+				<string>peace</string>
 				<key>sequence</key>
-				<string></string>
+				<string>262E</string>
 				<key>tts</key>
-				<string></string>
+				<string>peace symbol</string>
 			</dict>
 			<dict>
 				<key>emoji</key>
@@ -13755,11 +12797,11 @@
 					<string>✝️</string>
 				</array>
 				<key>keywords</key>
-				<string></string>
+				<string>Christian;cross;religion</string>
 				<key>sequence</key>
-				<string></string>
+				<string>271D</string>
 				<key>tts</key>
-				<string></string>
+				<string>latin cross</string>
 			</dict>
 			<dict>
 				<key>emoji</key>
@@ -13767,11 +12809,11 @@
 					<string>☪️</string>
 				</array>
 				<key>keywords</key>
-				<string></string>
+				<string>islam;Muslim;religion</string>
 				<key>sequence</key>
-				<string></string>
+				<string>262A</string>
 				<key>tts</key>
-				<string></string>
+				<string>star and crescent</string>
 			</dict>
 			<dict>
 				<key>emoji</key>
@@ -13779,11 +12821,11 @@
 					<string>🕉</string>
 				</array>
 				<key>keywords</key>
-				<string></string>
+				<string>Hindu;religion</string>
 				<key>sequence</key>
-				<string></string>
+				<string>1F549</string>
 				<key>tts</key>
-				<string></string>
+				<string>om</string>
 			</dict>
 			<dict>
 				<key>emoji</key>
@@ -13815,11 +12857,11 @@
 					<string>🔯</string>
 				</array>
 				<key>keywords</key>
-				<string></string>
+				<string>fortune;star</string>
 				<key>sequence</key>
-				<string></string>
+				<string>1F52F</string>
 				<key>tts</key>
-				<string></string>
+				<string>dotted six-pointed star</string>
 			</dict>
 			<dict>
 				<key>emoji</key>
@@ -13827,11 +12869,11 @@
 					<string>🕎</string>
 				</array>
 				<key>keywords</key>
-				<string></string>
+				<string>candelabrum;candlestick;religion</string>
 				<key>sequence</key>
-				<string></string>
+				<string>1F54E</string>
 				<key>tts</key>
-				<string></string>
+				<string>menorah</string>
 			</dict>
 			<dict>
 				<key>emoji</key>
@@ -13839,11 +12881,11 @@
 					<string>☯️</string>
 				</array>
 				<key>keywords</key>
-				<string></string>
+				<string>religion;tao;taoist;yang;yin</string>
 				<key>sequence</key>
-				<string></string>
+				<string>262F</string>
 				<key>tts</key>
-				<string></string>
+				<string>yin yang</string>
 			</dict>
 			<dict>
 				<key>emoji</key>
@@ -13863,11 +12905,11 @@
 					<string>🛐</string>
 				</array>
 				<key>keywords</key>
-				<string></string>
+				<string>religion;worship</string>
 				<key>sequence</key>
-				<string></string>
+				<string>1F6D0</string>
 				<key>tts</key>
-				<string></string>
+				<string>place of worship</string>
 			</dict>
 			<dict>
 				<key>emoji</key>
@@ -14043,11 +13085,11 @@
 					<string>⚛️</string>
 				</array>
 				<key>keywords</key>
-				<string></string>
+				<string>atheist;atom</string>
 				<key>sequence</key>
-				<string></string>
+				<string>269B</string>
 				<key>tts</key>
-				<string></string>
+				<string>atom symbol</string>
 			</dict>
 			<dict>
 				<key>emoji</key>
@@ -14451,11 +13493,11 @@
 					<string>💢</string>
 				</array>
 				<key>keywords</key>
-				<string></string>
+				<string>angry;comic;mad</string>
 				<key>sequence</key>
-				<string></string>
+				<string>1F4A2</string>
 				<key>tts</key>
-				<string></string>
+				<string>anger symbol</string>
 			</dict>
 			<dict>
 				<key>emoji</key>
@@ -14811,11 +13853,11 @@
 					<string>🌐</string>
 				</array>
 				<key>keywords</key>
-				<string></string>
+				<string>earth;globe;meridians;world</string>
 				<key>sequence</key>
-				<string></string>
+				<string>1F310</string>
 				<key>tts</key>
-				<string></string>
+				<string>globe with meridians</string>
 			</dict>
 			<dict>
 				<key>emoji</key>
@@ -14847,11 +13889,11 @@
 					<string>🌀</string>
 				</array>
 				<key>keywords</key>
-				<string></string>
+				<string>dizzy;twister;typhoon</string>
 				<key>sequence</key>
-				<string></string>
+				<string>1F300</string>
 				<key>tts</key>
-				<string></string>
+				<string>cyclone</string>
 			</dict>
 			<dict>
 				<key>emoji</key>
@@ -14859,11 +13901,11 @@
 					<string>💤</string>
 				</array>
 				<key>keywords</key>
-				<string></string>
+				<string>comic;sleep</string>
 				<key>sequence</key>
-				<string></string>
+				<string>1F4A4</string>
 				<key>tts</key>
-				<string></string>
+				<string>zzz</string>
 			</dict>
 			<dict>
 				<key>emoji</key>
@@ -15615,11 +14657,11 @@
 					<string>↗️</string>
 				</array>
 				<key>keywords</key>
-				<string></string>
+				<string>arrow;direction;intercardinal;northeast</string>
 				<key>sequence</key>
-				<string></string>
+				<string>2197</string>
 				<key>tts</key>
-				<string></string>
+				<string>up-right arrow</string>
 			</dict>
 			<dict>
 				<key>emoji</key>
@@ -15627,11 +14669,11 @@
 					<string>↘️</string>
 				</array>
 				<key>keywords</key>
-				<string></string>
+				<string>arrow;direction;intercardinal;southeast</string>
 				<key>sequence</key>
-				<string></string>
+				<string>2198</string>
 				<key>tts</key>
-				<string></string>
+				<string>down-right arrow</string>
 			</dict>
 			<dict>
 				<key>emoji</key>
@@ -15639,11 +14681,11 @@
 					<string>↙️</string>
 				</array>
 				<key>keywords</key>
-				<string></string>
+				<string>arrow;direction;intercardinal;southwest</string>
 				<key>sequence</key>
-				<string></string>
+				<string>2199</string>
 				<key>tts</key>
-				<string></string>
+				<string>down-left arrow</string>
 			</dict>
 			<dict>
 				<key>emoji</key>
@@ -15651,11 +14693,11 @@
 					<string>↖️</string>
 				</array>
 				<key>keywords</key>
-				<string></string>
+				<string>arrow;direction;intercardinal;northwest</string>
 				<key>sequence</key>
-				<string></string>
+				<string>2196</string>
 				<key>tts</key>
-				<string></string>
+				<string>up-left arrow</string>
 			</dict>
 			<dict>
 				<key>emoji</key>
@@ -15663,11 +14705,11 @@
 					<string>↕️</string>
 				</array>
 				<key>keywords</key>
-				<string></string>
+				<string>arrow</string>
 				<key>sequence</key>
-				<string></string>
+				<string>2195</string>
 				<key>tts</key>
-				<string></string>
+				<string>up-down arrow</string>
 			</dict>
 			<dict>
 				<key>emoji</key>
@@ -15675,11 +14717,11 @@
 					<string>↔️</string>
 				</array>
 				<key>keywords</key>
-				<string></string>
+				<string>arrow</string>
 				<key>sequence</key>
-				<string></string>
+				<string>2194</string>
 				<key>tts</key>
-				<string></string>
+				<string>left-right arrow</string>
 			</dict>
 			<dict>
 				<key>emoji</key>
@@ -15711,11 +14753,11 @@
 					<string>⤴️</string>
 				</array>
 				<key>keywords</key>
-				<string></string>
+				<string>arrow</string>
 				<key>sequence</key>
-				<string></string>
+				<string>2934</string>
 				<key>tts</key>
-				<string></string>
+				<string>right arrow curving up</string>
 			</dict>
 			<dict>
 				<key>emoji</key>
@@ -15723,11 +14765,11 @@
 					<string>⤵️</string>
 				</array>
 				<key>keywords</key>
-				<string></string>
+				<string>arrow;down</string>
 				<key>sequence</key>
-				<string></string>
+				<string>2935</string>
 				<key>tts</key>
-				<string></string>
+				<string>right arrow curving down</string>
 			</dict>
 			<dict>
 				<key>emoji</key>
@@ -15819,11 +14861,11 @@
 					<string>➕</string>
 				</array>
 				<key>keywords</key>
-				<string></string>
+				<string>math;plus</string>
 				<key>sequence</key>
-				<string></string>
+				<string>2795</string>
 				<key>tts</key>
-				<string></string>
+				<string>heavy plus sign</string>
 			</dict>
 			<dict>
 				<key>emoji</key>
@@ -15831,11 +14873,11 @@
 					<string>➖</string>
 				</array>
 				<key>keywords</key>
-				<string></string>
+				<string>math;minus</string>
 				<key>sequence</key>
-				<string></string>
+				<string>2796</string>
 				<key>tts</key>
-				<string></string>
+				<string>heavy minus sign</string>
 			</dict>
 			<dict>
 				<key>emoji</key>
@@ -15843,11 +14885,11 @@
 					<string>➗</string>
 				</array>
 				<key>keywords</key>
-				<string></string>
+				<string>division;math</string>
 				<key>sequence</key>
-				<string></string>
+				<string>2797</string>
 				<key>tts</key>
-				<string></string>
+				<string>heavy division sign</string>
 			</dict>
 			<dict>
 				<key>emoji</key>
@@ -15855,23 +14897,11 @@
 					<string>✖️</string>
 				</array>
 				<key>keywords</key>
-				<string></string>
+				<string>cancel;multiplication;multiply;x</string>
 				<key>sequence</key>
-				<string></string>
+				<string>2716</string>
 				<key>tts</key>
-				<string></string>
-			</dict>
-			<dict>
-				<key>emoji</key>
-				<array>
-					<string>♾</string>
-				</array>
-				<key>keywords</key>
-				<string></string>
-				<key>sequence</key>
-				<string></string>
-				<key>tts</key>
-				<string></string>
+				<string>heavy multiplication x</string>
 			</dict>
 			<dict>
 				<key>emoji</key>
@@ -15903,11 +14933,11 @@
 					<string>™️</string>
 				</array>
 				<key>keywords</key>
-				<string></string>
+				<string>mark;tm;trademark</string>
 				<key>sequence</key>
-				<string></string>
+				<string>2122</string>
 				<key>tts</key>
-				<string></string>
+				<string>trade mark</string>
 			</dict>
 			<dict>
 				<key>emoji</key>
@@ -15939,11 +14969,11 @@
 					<string>〰️</string>
 				</array>
 				<key>keywords</key>
-				<string></string>
+				<string>dash;punctuation;wavy</string>
 				<key>sequence</key>
-				<string></string>
+				<string>3030</string>
 				<key>tts</key>
-				<string></string>
+				<string>wavy dash</string>
 			</dict>
 			<dict>
 				<key>emoji</key>
@@ -16047,11 +15077,11 @@
 					<string>☑️</string>
 				</array>
 				<key>keywords</key>
-				<string></string>
+				<string>ballot;box;check</string>
 				<key>sequence</key>
-				<string></string>
+				<string>2611</string>
 				<key>tts</key>
-				<string></string>
+				<string>ballot box with check</string>
 			</dict>
 			<dict>
 				<key>emoji</key>
@@ -16880,18 +15910,6 @@
 				<key>emoji</key>
 				<array>
 					<string>🏳️‍🌈</string>
-				</array>
-				<key>keywords</key>
-				<string></string>
-				<key>sequence</key>
-				<string></string>
-				<key>tts</key>
-				<string></string>
-			</dict>
-			<dict>
-				<key>emoji</key>
-				<array>
-					<string>🏴‍☠️</string>
 				</array>
 				<key>keywords</key>
 				<string></string>
