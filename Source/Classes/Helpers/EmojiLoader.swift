@@ -68,4 +68,40 @@ final public class EmojiLoader {
         return emojiCategories
     }
     
+    static func emojis() -> [Emoji] {
+        var emojiPListFileName = "ISEmojiList_iOS10"
+        if #available(iOS 11.0, *) { emojiPListFileName = "ISEmojiList_iOS11" }
+        if #available(iOS 12.1, *) { emojiPListFileName = "ISEmojiList" }
+        
+        guard let filePath = Bundle.podBundle.path(forResource: emojiPListFileName, ofType: "plist") else {
+            return []
+        }
+        
+        guard let categories = NSArray(contentsOfFile: filePath) as? [[String:Any]] else {
+            return []
+        }
+        
+        var allEmojis = [Emoji]()
+        
+        for dictionary in categories {
+            guard let rawEmojis = dictionary["emojis"] as? [[String: Any]] else {
+                continue
+            }
+            
+            var emojis = [Emoji]()
+            
+            for value in rawEmojis {
+                guard
+                    let emojisArray = value["emoji"] as? [String],
+                    let keywords = value["keywords"] as? String,
+                    let seq = value["sequence"] as? String,
+                    let tts = value["tts"] as? String
+                    else { continue }
+                emojis.append(Emoji(emojis: emojisArray, keywords: keywords, sequence: seq, tts: tts))
+            }
+            allEmojis.append(contentsOf: emojis)
+        }
+        return allEmojis
+    }
+    
 }

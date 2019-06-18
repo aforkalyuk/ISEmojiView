@@ -115,7 +115,7 @@ final internal class CategoriesBottomView: UIView {
     }
     
     internal func updateCurrentCategory(_ category: Category) {
-        guard let item = categories.index(where: { $0 == category }) else {
+        guard let item = categories.firstIndex(where: { $0 == category }) else {
             return
         }
         
