@@ -68,7 +68,7 @@ final public class EmojiLoader {
         return emojiCategories
     }
     
-    static func emojis() -> [Emoji] {
+    static public func emojis() -> [Emoji] {
         var emojiPListFileName = "ISEmojiList_iOS10"
         if #available(iOS 11.0, *) { emojiPListFileName = "ISEmojiList_iOS11" }
         if #available(iOS 12.1, *) { emojiPListFileName = "ISEmojiList" }
