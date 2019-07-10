@@ -318,7 +318,7 @@ extension EmojiCollectionView {
         let cellFrameInSuperView = collectionView.convert(cellRect, to: self)
         let emojiPopLocation = CGPoint(
             x: cellFrameInSuperView.origin.x - ((TopPartSize.width - BottomPartSize.width) / 2.0) + 5,
-            y: cellFrameInSuperView.origin.y - TopPartSize.height - 10
+            y: cellFrameInSuperView.origin.y - TopPartSize.height + 10
         )
         emojiPopView.move(location: emojiPopLocation, animation: sender.state != .began)
     }
